@@ -44,6 +44,10 @@
 
 :root {
   /* GOOD BLUE -> #5e727d */
+  --user: #0f32cf;
+  --marker: #cf0f0f;
+
+
   --primary: #8c7a6b;
   /* Updated to a more nuanced earthy brown, reminiscent of worn leather or soil */
   --primary-lite: #a89b8d;
